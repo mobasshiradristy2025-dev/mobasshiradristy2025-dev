@@ -1,83 +1,211 @@
-# 👋 Hi, I'm Mobasshira Akter Dristy!
-### 🚀 Full Stack Web Developer | MERN Stack Enthusiast
-
-I am a passionate and detail-oriented Full Stack Web Developer who enjoys building modern, responsive, and scalable web applications. I love transforming ideas into reality through elegant code and clean architecture.
-
-## 👨‍💻 About Me
-
-- 🚀 **Specialized in:** MERN Stack Development.
-- ⚛️ **Frontend:** Building interactive, modern user interfaces with React.js.
-- 🟢 **Backend:** Developing robust and secure APIs with Node.js & Express.js.
-- 🍃 **Databases:** Working efficiently with MongoDB and SQL databases.
-- 🌱 **Currently Learning:** Advanced React.js, TypeScript, REST APIs, and Clean Architecture.
-- 💡 **Vision:** Interested in solving real-world problems through software and focused on continuously improving my skills.
-- 📫 **Reach out to me:** [mobasshiradristy2025@gmail.com](mailto:mobasshiradristy2025@gmail.com)
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### ⚙️ Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools & Others
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🏎️ [Ferrari Project](#) *(Insert Repo Link Here)*
-A modern, Ferrari-themed web project focused on pixel-perfect responsive design and an engaging user experience.
-* **Technologies Used:** HTML5, CSS3, Vanilla JavaScript.
-
-### 💻 More Projects
-I'm continuously building and refining projects as I explore modern full-stack development. Feel free to explore my repositories!
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="GitHub Stats" width="48%" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium" alt="Top Languages" width="48%" />
 
-  <br />
+# 👋 Hi, I'm Mobasshira Akter Dristy
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium" alt="GitHub Streak" />
+### 🚀 Full Stack Web Developer
+
+**MERN Stack • React.js • Node.js • Express.js • MongoDB**
+
+<p>
+  <a href="https://github.com/mobasshiradristy2025-dev">
+    <img src="https://komarev.com/ghpvc/?username=mobasshiradristy2025-dev&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/mobasshiradristy2025-dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/mobasshiradristy2025-dev?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 👨‍💻 About Me
 
-<p align="left">
-  <a href="mailto:mobasshiradristy2025@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+I'm a passionate **Full Stack Web Developer** who enjoys building modern, responsive, and scalable web applications.
+
+* 🚀 Specialized in **MERN Stack Development**
+* ⚛️ Building modern user interfaces with **React.js**
+* 🟢 Developing backend applications with **Node.js & Express.js**
+* 🍃 Working with **MongoDB and SQL databases**
+* 🌱 Continuously learning modern web technologies
+* 💡 Interested in solving real-world problems through software
+* 🎯 Focused on becoming a professional and skilled software developer
+* 📫 **Email:** `mobasshiradristy2025@gmail.com`
+
+---
+
+# 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,sass" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mobasshiradristy2025-dev&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobasshiradristy2025-dev&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180"/>
+
+</div>
+
+---
+
+# 📌 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mobasshiradristy2025-dev&theme=tokyonight" width="95%"/>
+
+</div>
+
+---
+
+# ⭐ GitHub Statistics
+
+<div align="center">
+
+<img src="https://img.shields.io/github/stars/mobasshiradristy2025-dev?style=for-the-badge&logo=github&label=TOTAL%20STARS"/>
+
+<img src="https://img.shields.io/github/repos/mobasshiradristy2025-dev?style=for-the-badge&logo=github&label=TOTAL%20REPOSITORIES"/>
+
+<img src="https://img.shields.io/github/followers/mobasshiradristy2025-dev?style=for-the-badge&logo=github&label=FOLLOWERS"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=mobasshiradristy2025-dev&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity & Commit Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mobasshiradristy2025-dev&theme=tokyo-night&hide_border=true&area=true&custom_title=Mobasshira's%20Contribution%20Graph" width="95%"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mobasshiradristy2025-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mobasshiradristy2025-dev/mobasshiradristy2025-dev/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="95%"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏎️ Ferrari Project
+
+A modern Ferrari-themed web project focused on responsive design and an engaging user experience.
+
+**Technologies:** HTML • CSS • JavaScript
+
+<p>
+  <a href="https://github.com/mobasshiradristy2025-dev/my-ferrari-project">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
+---
+
+## 💻 More Projects
+
+I'm continuously building and improving projects while learning modern full-stack development.
+
+<p>
+  <a href="https://github.com/mobasshiradristy2025-dev?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,typescript" />
+</p>
+
+* Advanced React.js
+* Full Stack MERN Development
+* REST APIs
+* Backend Development
+* Database Management
+* TypeScript
+* Clean & Scalable Architecture
+
+---
+
+# 📫 Connect With Me
+
 <div align="center">
-  <i>🚀 Building. Learning. Improving.</i><br>
-  <b>Thanks for visiting my profile!</b>
+
+<a href="https://linkedin.com/in/mobasshira-akter-dristy">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://twitter.com/mobasshira_dr">
+<img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://fb.com/mobasshira.akter.dristy">
+<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+
+<a href="mailto:mobasshiradristy2025@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building. Learning. Improving.
+
+**Thanks for visiting my GitHub profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
 </div>
