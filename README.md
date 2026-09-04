@@ -3,6 +3,7 @@
 # 👋 Hi, I'm Mobasshira Akter Dristy
 
 ### 🚀 Full Stack Web Developer
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
 **MERN Stack • React.js • Node.js • Express.js • MongoDB**
 
