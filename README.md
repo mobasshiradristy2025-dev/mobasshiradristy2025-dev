@@ -4,7 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Mobasshira%20Akter%20Dristy&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20•%20Problem%20Solver%20•%20Open%20Source%20Enthusiast&descAlignY=52&descSize=16" width="100%"/>
 
 <!-- Profile photo -->
-<img src="profile.jpg" width="300" height="300" style="border-radius:50%;border:4px solid #302b63;object-fit:cover;margin-top:-70px;" alt="profile photo"/>
 
 <br/><br/>
 
